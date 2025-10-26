@@ -1,2 +1,3 @@
 # manzoor-alam
-html, java ,python,css
+This is my first repositories
+author - manzoor alam 
