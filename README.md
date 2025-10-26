@@ -1,4 +1,4 @@
 # manzoor-alam
-This is my first repositories
+This is my first Git repositories
 <br>
 author - manzoor alam 
